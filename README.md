@@ -1,7 +1,7 @@
 ### DESAFIO GITHUB - MARKDOWN
 -----
 
-Este projeto faz parte do desafio proposto no curso **Formação Git e GitHub - Certification** da [DIO](https://www.dio.me/). O objetivo é aplicar os comhecimentos adquiridos sobre versionamento de código utilizando Git e GitHub. A edição deste projeto deve ser realizada diretamente pelo editor web do GitHub.
+Este projeto faz parte do desafio proposto no curso **Formação Git e GitHub - Certification** da [DIO](https://www.dio.me/). O objetivo é aplicar os conhecimentos adquiridos sobre versionamento de código utilizando Git e GitHub. A edição deste projeto deve ser realizada diretamente pelo editor web do GitHub.
 
 ## OBJETIVOS DO PROJETO
 
@@ -25,11 +25,11 @@ O repositório foi clonado localmente via terminal, possibilitando a edição do
 
 # ✅ Realizar alterações, commits, issues e pull requests
 
-Foram feitas modificações no `README.md`, criadas branches específicas para sugestões, realizados commts com mensagens claras, abertas issues para controle de tarefas e criados pull requests para revisão e integração das alterações.
+Foram feitas modificações no `README.md`, criadas branches específicas para sugestões, realizados commits com mensagens claras, abertas issues para controle de tarefas e criados pull requests para revisão e integração das alterações.
 
 ## 📚 APRENDIZADOS
 
-Durante o deenvolvimento deste desafio, foram reforçados os seguintes conceitos:
+Durante o desenvolvimento deste desafio, foram reforçados os seguintes conceitos:
 
 - Diferença entre Git e GitHub
 - Criação e gerenciamento de branches
