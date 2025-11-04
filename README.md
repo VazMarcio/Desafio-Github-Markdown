@@ -36,3 +36,11 @@ Durante o deenvolvimento deste desafio, foram reforçados os seguintes conceitos
 - Fluxo de trabalho com pull requests
 - Colaboração entre múltilos usuários
 - Edição de arquivos diretamente pelo editor web do GitHub
+
+## TECNOLOGIAS UTILIZADAS
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width = "70" height = "70" /> &nbsp;
+<img alt="Github" height="70" width="70" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Github.svg"> &nbsp;
+<img alt="GITBash" height="70" width="70" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/GITBash.svg"> &nbsp;
+
+
