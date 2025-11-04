@@ -44,3 +44,7 @@ Durante o deenvolvimento deste desafio, foram reforçados os seguintes conceitos
 <img alt="GITBash" height="70" width="70" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/GITBash.svg"> &nbsp;
 
 
+## 👤 Autor: Marcio Antonio Vaz
+
+- ✉️ githubmarcio@gmail.com
+
